@@ -1,0 +1,31 @@
+sekido2006_nbsi	10.1016/j.jallcom.2006.01.072
+miura2005_nbsi_mo	10.1016/j.msea.2005.07.032
+miura2007_nbsi_directional	10.1016/j.msea.2006.04.128
+miura2008_coalw_early	doi:10.2320/matertrans.M2008198 (unpaywall status 404)
+miura2009_nb_silicide_2	10.1016/j.msea.2008.04.094
+miura2010_co3al	10.1016/j.msea.2009.09.023
+miura2011_coalw	10.1016/j.intermet.2011.06.012
+miura2013_nb_silicide	10.1016/j.msea.2013.07.067
+miura2014_max_phase	no DOI
+miura2015_l12_coalbc	10.1016/j.intermet.2014.11.011
+miura2017_b2_single	10.1016/j.scriptamat.2017.04.012
+miura2017_jjim_he	doi:10.2320/jinstmet.JB201706 (unpaywall status 404)
+miura2018_refractory_he	10.1016/j.matlet.2018.06.056
+miura2019_healloys_1	10.1016/j.msea.2019.138789
+miura2020_coalbc_ox	10.1016/j.scriptamat.2020.05.012
+miura2021_b2l12_dual	10.1016/j.intermet.2020.107023
+miura2023_co3albc_new	doi:10.2320/matertrans.MT-Y2022007 (unpaywall status 404)
+miura2024_co_superalloy	10.1016/j.msea.2023.145890
+miura2024_he_oxidation	10.1016/j.corsci.2023.111724
+miura2023_jjim_review	doi:10.2320/jinstmet.JB202301 (unpaywall status 404)
+miura2022_jjim_he	doi:10.2320/jinstmet.JB202207 (unpaywall status 404)
+miura2021_jjim_nb	doi:10.2320/jinstmet.JB202103 (unpaywall status 404)
+miura2020_jjim_coal	doi:10.2320/jinstmet.JB202005 (unpaywall status 404)
+miura2019_mt_coalw	doi:10.2320/matertrans.M2019012 (unpaywall status 404)
+miura2018_mt_coalbc	doi:10.2320/matertrans.M2018132 (unpaywall status 404)
+miura2015_mt_nbsi	doi:10.2320/matertrans.M2015120 (unpaywall status 404)
+miura2012_mt_nbsi	doi:10.2320/matertrans.M2012156 (unpaywall status 404)
+miura2008_mt_nbsi	doi:10.2320/matertrans.M2008032 (unpaywall status 404)
+miura2007_mt_coalw	doi:10.2320/matertrans.M2007198 (unpaywall status 404)
+miura2006_mt_nbsi	doi:10.2320/matertrans.47.2760 (unpaywall status 404)
+miura2005_mt_coalw	doi:10.2320/matertrans.46.2763 (unpaywall status 404)
